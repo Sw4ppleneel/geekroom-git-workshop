@@ -13,5 +13,6 @@ This file is used in [Step 12: A conflict in a real pull request](../steps/12-co
 
 Cheese: cottage 
 sauce : chipotle
+Cheese: Mozzarella (Sw4ppleneel)
 
 ---
